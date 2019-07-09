@@ -24,12 +24,16 @@ Order of learning
     0.  basics
     1.  timeComplexity
     2.  arrays
-    3.  arrayListLinkedList
-    4.  seriesSequencesRecursion
-    5.  queStack
-    6.  hashTable
-    7.  trees
-    8.  sorting
-    9.  graphs
-    10. conclusions
-    11. movingForward
+    3.  arrayList
+    4.  linkedList
+    5.  seriesSequences
+    6.  recursion
+    7.  que
+    8.  stack
+    9.  hashSet
+    10. hashMap
+    11. trees
+    12. sorting
+    13. graphs
+    14. conclusions
+    15. movingForward
