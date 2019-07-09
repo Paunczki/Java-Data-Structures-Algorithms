@@ -21,19 +21,19 @@ https://docs.oracle.com/javase/8/docs/
 
 
 Order of learning
-    0.  basics
-    1.  timeComplexity
-    2.  arrays
-    3.  arrayList
-    4.  linkedList
-    5.  seriesSequences
-    6.  recursion
-    7.  que
-    8.  stack
-    9.  hashSet
-    10. hashMap
-    11. trees
-    12. sorting
-    13. graphs
-    14. conclusions
-    15. movingForward
+0.  basics
+1.  timeComplexity
+2.  arrays
+3.  arrayList
+4.  linkedList
+5.  seriesSequences
+6.  recursion
+7.  que
+8.  stack
+9.  hashSet
+10. hashMap
+11. trees
+12. sorting
+13. graphs
+14. conclusions
+15. movingForward
