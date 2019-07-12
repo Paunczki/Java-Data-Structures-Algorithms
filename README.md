@@ -20,7 +20,8 @@ Always refer to the documentation (at this time Java 8)
 https://docs.oracle.com/javase/8/docs/
 
 
-Order of learning
+## Order of learning
+
 0.  basics
 1.  timeComplexity
 2.  arrays
@@ -37,3 +38,10 @@ Order of learning
 13. graphs
 14. conclusions
 15. movingForward
+
+## Practice
+
+Go through the code in the codeThroughoutSemester folder and see 
+how these data structures were implemenented. 
+Later guides on it will walk through users
+

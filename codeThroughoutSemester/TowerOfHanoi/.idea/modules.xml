@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework 9/Final Take Home.iml" filepath="$PROJECT_DIR$/Homework 9/Final Take Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalTakeHome/FinalTakeHome.iml" filepath="$PROJECT_DIR$/FinalTakeHome/FinalTakeHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework 10/Homework 10.iml" filepath="$PROJECT_DIR$/Homework 10/Homework 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework 9/Homework 9.iml" filepath="$PROJECT_DIR$/Homework 9/Homework 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework8/Homework8.iml" filepath="$PROJECT_DIR$/Homework8/Homework8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8/Lab8.iml" filepath="$PROJECT_DIR$/Lab8/Lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionalAssignment/OptionalAssignment.iml" filepath="$PROJECT_DIR$/OptionalAssignment/OptionalAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TowerOfHanoi.iml" filepath="$PROJECT_DIR$/TowerOfHanoi.iml" />
+    </modules>
+  </component>
+</project>

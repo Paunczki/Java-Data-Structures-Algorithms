@@ -1,0 +1,22 @@
+9.  How many unique movies are there?
+        -
+10. How many unique cast members are there? You can assume that two people with identical
+    names are the same people – which we will agree as a bit of oversimplification.
+
+11. How many edges are there?
+
+12. Given a cast member, print the list of movies in which the cast member is featured in.
+
+13. Write a method public void coCast (int minMovies) that when provided with a threshold minimum
+    number of movies, lists all pairs of cast members that are featured together in at least minMovies
+    along with the titles of such movies. For instance, coCast(5) will produce a list of pairs of cast
+    members which are featured together in at least 5 movies.
+
+14. In particular, run the method for minMovies =13 and produce the listing. It should give you nine
+    pairs of cast members. Your method should not take more than 2 to 3 minutes to run. You must
+    meet the runtime performance.
+
+15. Also find the pair of cast members who have featured in the most number of movies together.
+    Yes, there is only one and produce the movie title along with the names of the two cast members.
+
+Of course, if you solved question 15 above, you got this one as well.

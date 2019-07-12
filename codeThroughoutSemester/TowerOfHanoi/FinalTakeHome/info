@@ -1,0 +1,30 @@
+/*
+        What I need to find:
+            1.  Given a user id, output the total number of times the user has voted to
+                support or be neutral or oppose the candidate considered for promotion
+                for all people the user has voted for collectively in all the elections.
+            2.  Given a user id considered for promotion, output the user id and
+                screen name of the nominator. For multiple nominations, you will
+                output all nominators. If the user is not nominated ever, output
+                an appropriate message.
+            3.  Given user screen name, output the total number of votes the user got
+                in support, neutral and in opposition and the result, if the user was
+                considered was promotion. Otherwise, (the user was never
+                considered for promotion), output an appropriate message.
+            4.  Print all pairs of user screen names A and B, such that A has voted
+                negatively for B and B has voted negatively for A in any election, if
+                there is any such pair. Also, print the total number of such pairs of
+                Wiki users/administrators.
+     */
+
+
+
+/*
+                    E --> Promotion (1) or not (0)
+                    T --> Time election was closed
+                    U --> User id (and screen name) of editor being considered for promotion
+                    N --> User id (and screen name) of nominator
+                    V --> vote (1:support / 0:neutral / -1:oppose), user id, time, screen name
+                 */
+
+
