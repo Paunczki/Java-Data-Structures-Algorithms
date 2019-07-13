@@ -45,3 +45,10 @@ Go through the code in the codeThroughoutSemester folder and see
 how these data structures were implemenented. 
 Later guides on it will walk through users
 
+For full information, and maybe some hints on doing the projects,
+
+You can visit this link
+https://drive.google.com/open?id=1ES4fH0Pr_Is_HHXliuMVdYJOViyxSORn
+
+Here are my notes from the questions,
+of course will add these helpful files within the exercises
