@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NumberWords
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=sc
+comment3.target=java.lang.String\ getNumberWords(java.util.Scanner)
+numComments=4

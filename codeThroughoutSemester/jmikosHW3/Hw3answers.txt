@@ -1,0 +1,32 @@
+Name: John Mikos
+Assignment: HW 3
+
+1. Suppose a method foo2() has a run time-complexity of O(n log n), foo3() has a time-complexity of O(n). Consider the method
+public void foo1(){
+		for(int i=0; i<n; i++){
+			foo2(); 
+			foo3();
+		}
+}
+What is the time-complexity of foo1() in Big-O notation?
+n*(n log(n) + n) == n2 log(n) + n2
+O(n^2 * log(n)) 
+
+2. Find the dominating term (the fastest growing term) in each of the following algebraic expressions and then write it in big-oh notation. All logarithms are to the base 2. 
+2n + 5 - log(n) ⇒ n - log(n) ⇒ n
+O(n)
+log(n) + n1.1 + 2log(n)  ⇒ 2log(n)
+O(2^log(n))
+100n4n log(n) + 200n1/10 + 0.000001n5 ⇒ n9/2 * log(n) + n1/10 + n5 ⇒ n5
+O(n^5)
+
+3. For the code segment below estimate the time-complexity in the big-oh notation.
+for (int i=0; i< n; i++)
+for (int j=0; j*j <n;j++)
+for (int k=0; k < n/2;k++)
+System.out.println (i+j+k);
+n * (n^½) * (½ n)  ==  ½ (n^5/2)  ⇒ n^5/2
+O(n^5/2) 
+
+4. Write a Java class called FlexArray that has/does the following: (see attached homework sheet for instructions)
+Make sure you test the method with example inputs and ensure correctness. You do not need to submit a test class. Submit the .java file.
