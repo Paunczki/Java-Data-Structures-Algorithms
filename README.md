@@ -1,4 +1,9 @@
 # Java-Data-Structures-Algorithms
+
+Note: Completely meant as a rigourous way to practice methods
+By no means should anyone look for answers in this repository
+Purely meant as supplemental practice
+
 Meant completely for people to learn Data Strucutres and Algorithms for Java
 It is assumed you have minimum programming experience
     - Compentency with creating and using varibales
@@ -20,27 +25,46 @@ Always refer to the documentation (at this time Java 8)
 https://docs.oracle.com/javase/8/docs/
 
 
+## Important
+
+There will be no guides/questions/answers given for anything contained in codeThroughoutSemester
+This is because these were answers and work I did for a class where the 
+information may be reused. 
+Please do not copy these answers
+I provided the materials I did as a way for people to look at my learning process. 
+
+If you do need help with any of the parts if you are taking a similar class 
+please reach out to me
+
+You can always comment or create an issue and I can respond and hopefully help
+
+
 ## Order of learning
 
 0.  basics
 1.  timeComplexity
-2.  arrays
-3.  arrayList
-4.  linkedList
-5.  seriesSequences
-6.  recursion
-7.  que
-8.  stack
-9.  hashSet
-10. hashMap
-11. trees
-12. sorting
-13. graphs
-14. conclusions
-15. movingForward
+2.  spaceComplexity
+3.  arrays
+4.  arrayList
+5.  linkedList
+6.  seriesSequences
+7.  recursion
+8.  que
+9.  stack
+10. hashSet
+11. hashMap
+12. trees
+13. sorting
+14. graphs
+15. conclusions
+16. movingForward
+
+
+## Instalation
+
+To install everything follow the installation guide (installationGuide.md)
+
 
 ## Practice
 
-Go through the code in the codeThroughoutSemester folder and see 
-how these data structures were implemenented. 
-Later guides on it will walk through users
+If you want to be able to run the code, see runningCodeGuide.md
