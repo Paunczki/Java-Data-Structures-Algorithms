@@ -1,0 +1,3 @@
+This will be a file to just provide the time, space, 
+and calling methods of each major function
+
